@@ -10,7 +10,7 @@ HTML and CSS
 ## Constributing
 
 ## Tests
-file:///C:/Users/deann/OneDrive/Desktop/Joel's%20Folder/H1_Refractor/index.html
+https://github.com/JoelBal/H1_Refractor.git
 
 
 ## Email
